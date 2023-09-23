@@ -1,0 +1,101 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+header{
+    padding: 30px;
+    height: 30px;
+   
+    position: absolute; 
+
+}
+section{
+    padding: 20px;
+    display: flex;
+}
+ul{
+    padding: 20px;
+    height: 25px;
+    width: 20px;
+    justify-content: left;
+    display: flex;
+    padding-left: 20px;
+    list-style: none;
+    
+}
+li{
+   
+    color: black;
+    margin-left: 20px;
+    padding: 10px;
+    height: 40px;
+    font-size: larger;
+    font-style: initial;
+}
+.Register{
+    display: flex;
+    margin-left: 600px;
+}
+.AllRightReserve{
+    position: absolute;
+    text-align: center;
+    margin-top: 60px;
+    width: 1300px;
+    
+}
+.navigation{
+    background-color: orangered;
+    padding: 20px;
+    width: 1200px;
+    border-radius: 25px;
+    border: 5px solid black;
+}
+ img{
+    padding: 20px;
+    width: 200px;
+    height: 200px;
+    justify-content: center;
+    display: flex;
+    
+    
+}
+p{
+    border-radius: 10px;
+    border: 1px solid orangered;
+}
+.one{
+   align-self: center;
+  justify-content: space-between;
+  width: 300px;
+  height: 300px;
+  text-align: justify;
+  padding: 10px;
+
+  
+
+} div{
+    padding: 10px;
+
+}p{
+    text-align: center;
+   display: block;
+}
+
+
+.kwe{
+    position: absolute;
+display: flex; 
+background-color: rgb(136, 56, 9);
+padding: 40px;
+width: 1300px;
+justify-content: center;
+
+
+}
+.ContactUs{
+    border: 2px solid black;
+}
+
+    
+
